@@ -110,6 +110,7 @@ h1 {
         width: 300px;
         height: fit-content;
         margin: 0px;
+       border: transparent;
     }
     /* sedans section */
 .sedans-wrapper {
